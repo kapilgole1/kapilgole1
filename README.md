@@ -28,11 +28,26 @@ I thrive on hands-on projects, learning-by-doing, and always aim to deepen my te
 
 ## 🛠️ Technical Skills
 
-| 🚀 Cloud/Infra  | 🧰 DevOps/Tools      | ⛓️ CI/CD & Automation    | 📈 Monitoring     | 🔐 Security & Others    |
-| :------------: | :-----------------: | :---------------------: | :---------------: | :---------------------: |
-| AWS            | Docker, Docker Compose| Jenkins, GitHub Actions | Prometheus, Grafana| DevSecOps Practices   |
-| Terraform      | Kubernetes (Minikube, kind, EC2) | ArgoCD, NGINX      |                   | Basic Golang, Linux    |
+## 🚀 Cloud & Infrastructure
+- **AWS** (EC2, S3, IAM, VPC, Lambda, CloudFormation — intermediate+)
+- **Terraform** (multi-cloud provisioning, modules — intermediate)
 
+## 🧰 DevOps & Tools
+- **Docker, Docker Compose** (containerization, orchestration)
+- **Kubernetes** (Minikube, kind, EC2-hosted clusters, Helm — intermediate)
+- **Golang** (automation scripting — basic to intermediate)
+- **Linux** (administration, shell scripting — intermediate)
+
+## ⛓️ CI/CD & Automation
+- **Jenkins, GitHub Actions** (pipeline creation, advanced workflows)
+- **ArgoCD** (GitOps, advanced deployment strategies)
+- **NGINX** (reverse proxy, load balancing)
+
+## 📈 Monitoring
+- **Prometheus, Grafana** (metrics, dashboards, alerting)
+
+## 🔐 Security & Others
+- **DevSecOps practices** (integrated security in CI/CD, SAST/DAST tools)
 ---
 
 ## 🚀 Recent Projects
