@@ -1,69 +1,85 @@
-# 👋 Hi, I'm Kapil Gole – DevOps & Cloud Enthusiast
+<!-- Banner (Can swap image with your own or a more modern one from shields.io or elsewhere) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=8827E6&center=true&vCenter=true&width=650&lines=DevOps+%7C+Cloud+%7C+Automation+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Jenkins+%7C+Kubernetes+%F0%9F%A4%96+with+a+Growth+Mindset;Building+Production-ready+%E2%9C%A8+Systems+with+Passion!" alt="DevOps Profile Banner"/>
+</p>
 
-![DevOps Banner](https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-Expert-red?logo=jenkins&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Enthusiast-blue?logo=kubernetes&style=flat-square)
+# 👋 Hi, I'm <span style="color:#8e44ad;">Kapil Gole</span> – <span style="color:#5865F2;">DevOps & Cloud Enthusiast</span>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-6C63FF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student and aspiring **DevOps Engineer** passionate about:
+Driven Computer Science & Engineering student and aspiring <strong>DevOps Engineer</strong> passionate about:
+- 🌩️ Cloud Engineering
+- 🤖 Infrastructure Automation
+- 🛡️ DevSecOps
+- ⚙️ Building scalable, reliable production systems
 
-- Cloud engineering
-- Infrastructure automation
-- DevSecOps
-- Building production-ready, scalable systems
-
-I thrive on hands-on implementation and real-world projects rather than only theoretical study. I'm practical, consistent, and growth-oriented, always seeking to improve my technical depth.
+I thrive on hands-on projects, learning-by-doing, and always aim to deepen my technical expertise.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Linux & Linux Networking**
-- **Git & GitHub**
-- **Docker & Docker Compose**
-- **Kubernetes** (Minikube, Kind, EC2-based setups)
-- **Jenkins & GitHub Actions**
-- **Prometheus & Grafana**
-- **Terraform**
-- **AWS Fundamentals**
-- **Argo CD**
-- **NGINX**
-- **Basic Golang**
-- **DevSecOps Practices**
+| 🚀 Cloud/Infra  | 🧰 DevOps/Tools      | ⛓️ CI/CD & Automation    | 📈 Monitoring     | 🔐 Security & Others    |
+| :------------: | :-----------------: | :---------------------: | :---------------: | :---------------------: |
+| AWS            | Docker, Docker Compose| Jenkins, GitHub Actions | Prometheus, Grafana| DevSecOps Practices   |
+| Terraform      | Kubernetes (Minikube, kind, EC2) | ArgoCD, NGINX      |                   | Basic Golang, Linux    |
 
 ---
 
-## 🚀 Projects
+## 🚀 Recent Projects
 
-- **Secure and Observable CI/CD Pipeline** using Jenkins, Trivy, Prometheus & Grafana
-- **Full-Stack Dockerized Deployment** with CI/CD Automation
-- **Kubernetes Monitoring Stack Deployment**
-- **Reverse Proxy Setup** with NGINX
+- **Secure & Observable CI/CD Pipeline:** Jenkins, Trivy, Prometheus, Grafana
+- **Full-Stack Dockerized Deployments** with automated pipelines
+- **Kubernetes Monitoring Stack** setup
+- **NGINX Reverse Proxy** production configuration
 - **GitHub Actions Automation Workflows**
-- **Production-Ready Flask Application Deployment on Kubernetes**
+- **Scalable Flask App on Kubernetes**
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Learning
 
-- Advanced cloud-native technologies
-- Production-grade CI/CD workflows
-- Security best practices for DevOps & Cloud
+- Advanced cloud-native stacks & patterns
+- Security-first DevOps/DevSecOps
+- Enterprise CI/CD best practices
+- Open-source infra & GitOps
 
 ---
 
 ## ⚡ Fun Facts
 
-- Fitness enthusiast & gym-goer
-- Fascinated by defense technology
-- Explorer of new restaurants
-- Loves music & spending time with friends and family
-- Disciplined, curious, and always eager to learn
+- 🏋️‍♂️ Fitness enthusiast
+- 🛡️ Fascinated by defense tech
+- 🥘 Restaurant explorer
+- 🎵 Music fan & friend-focused
+- 📚 Lifelong learner; curiosity-driven
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Kapil%20Gole-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/kapil-gole)](https://in.linkedin.com/in/kapil-gole)
+<p align="center">
+  <a href="https://in.linkedin.com/in/kapil-gole" target="_blank">
+    <img src="https://img.shields.io/badge/-Kapil_Gole-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Add more social links here -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilgole1&show_icons=true&count_private=true&hide_rank=true&theme=radical" alt="Kapil's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilgole1&theme=radical" alt="Kapil's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgole1&layout=compact&theme=radical" alt="Top languages"/>
+</p>
