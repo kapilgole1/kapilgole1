@@ -1,100 +1,174 @@
-<!-- Banner (Can swap image with your own or a more modern one from shields.io or elsewhere) -->
+<!-- ===================================================== -->
+<!--                 GitHub Profile README                  -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=8827E6&center=true&vCenter=true&width=650&lines=DevOps+%7C+Cloud+%7C+Automation+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Jenkins+%7C+Kubernetes+%F0%9F%A4%96+with+a+Growth+Mindset;Building+Production-ready+%E2%9C%A8+Systems+with+Passion!" alt="DevOps Profile Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Cloud+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;DevOps+%7C+CI%2FCD+%7C+Automation;Linux+%7C+Docker+%7C+Jenkins;Always+Learning+Cloud+Native+Technologies" alt="Typing SVG"/>
 </p>
 
-# 👋 Hi, I'm <span style="color:#8e44ad;">Kapil Gole</span> – <span style="color:#5865F2;">DevOps & Cloud Enthusiast</span>
+<h1 align="center">Hi 👋, I'm Kapil Gole</h1>
+
+<h3 align="center">
+Cloud Engineer • DevOps Engineer • AWS • Kubernetes • Terraform
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-6C63FF?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+Building scalable cloud infrastructure through Automation, DevOps, GitOps and Infrastructure as Code.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Driven Computer Science & Engineering student and aspiring <strong>DevOps Engineer</strong> passionate about:
-- 🌩️ Cloud Engineering
-- 🤖 Infrastructure Automation
-- 🛡️ DevSecOps
-- ⚙️ Building scalable, reliable production systems
-
-I thrive on hands-on projects, learning-by-doing, and always aim to deepen my technical expertise.
-
----
-
-## 🛠️ Technical Skills
-
-## 🚀 Cloud & Infrastructure
-- **AWS** (EC2, S3, IAM, VPC, Lambda, CloudFormation — intermediate+)
-- **Terraform** (multi-cloud provisioning, modules — intermediate)
-
-## 🧰 DevOps & Tools
-- **Docker, Docker Compose** (containerization, orchestration)
-- **Kubernetes** (Minikube, kind, EC2-hosted clusters, Helm — intermediate)
-- **Golang** (automation scripting — basic to intermediate)
-- **Linux** (administration, shell scripting — intermediate)
-
-## ⛓️ CI/CD & Automation
-- **Jenkins, GitHub Actions** (pipeline creation, advanced workflows)
-- **ArgoCD** (GitOps, advanced deployment strategies)
-- **NGINX** (reverse proxy, load balancing)
-
-## 📈 Monitoring
-- **Prometheus, Grafana** (metrics, dashboards, alerting)
-
-## 🔐 Security & Others
-- **DevSecOps practices** (integrated security in CI/CD, SAST/DAST tools)
----
-
-## 🚀 Recent Projects
-
-- **Secure & Observable CI/CD Pipeline:** Jenkins, Trivy, Prometheus, Grafana
-- **Full-Stack Dockerized Deployments** with automated pipelines
-- **Kubernetes Monitoring Stack** setup
-- **NGINX Reverse Proxy** production configuration
-- **GitHub Actions Automation Workflows**
-- **Scalable Flask App on Kubernetes**
-
----
-
-## 🌱 Currently Learning
-
-- Advanced cloud-native stacks & patterns
-- Security-first DevOps/DevSecOps
-- Enterprise CI/CD best practices
-- Open-source infra & GitOps
-
----
-
-## ⚡ Fun Facts
-
-- 🏋️‍♂️ Fitness enthusiast
-- 🛡️ Fascinated by defense tech
-- 🥘 Restaurant explorer
-- 🎵 Music fan & friend-focused
-- 📚 Lifelong learner; curiosity-driven
-
----
-
-## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://in.linkedin.com/in/kapil-gole" target="_blank">
-    <img src="https://img.shields.io/badge/-Kapil_Gole-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- Add more social links here -->
+
+<a href="https://github.com/kapilgole1">
+<img src="https://img.shields.io/github/followers/kapilgole1?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/kapilgole1">
+<img src="https://img.shields.io/github/stars/kapilgole1?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=kapilgole1&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilgole1&show_icons=true&count_private=true&hide_rank=true&theme=radical" alt="Kapil's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilgole1&theme=radical" alt="Kapil's GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgole1&layout=compact&theme=radical" alt="Top languages"/>
+# 👨‍💻 About Me
+
+I'm a **Cloud Engineer** passionate about building secure, scalable and highly available cloud infrastructure.
+
+My primary interests include
+
+- ☁️ Cloud Engineering
+- 🚀 DevOps
+- ⚙️ Infrastructure as Code
+- ☸️ Kubernetes
+- 🔐 DevSecOps
+- 📈 Monitoring & Observability
+
+I enjoy solving infrastructure challenges, automating repetitive tasks, deploying production-ready applications, and continuously learning modern cloud-native technologies.
+
+---
+
+# 💼 Experience
+
+| Position | Company | Duration |
+|-----------|----------|----------|
+| ☁️ Cloud Engineer | Multiverse Solutions Pvt. Ltd. | Jan 2026 – Present |
+| 🐧 Linux Developer Intern | Interface Microsystem Pvt. Ltd. | Feb 2025 – Jul 2025 |
+| 🤖 AI Intern | ICT Academy | Sep 2024 – Oct 2024 |
+| ☁️ Cloud Fundamentals Intern | Wayspire Pvt. Ltd. | Jun 2024 – Aug 2024 |
+
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square"/>
+
 </p>
+
+---
+
+## 🚀 DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+
+<img src="https://skillicons.dev/icons?i=jenkins"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions"/>
+
+<img src="https://skillicons.dev/icons?i=terraform"/>
+
+<img src="https://skillicons.dev/icons?i=ansible"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+---
+
+## ☸️ Kubernetes Ecosystem
+
+- Kubernetes
+- Helm
+- Amazon EKS
+- Docker
+- Docker Compose
+- Kubernetes Networking
+- ConfigMaps
+- Secrets
+- Ingress
+- Persistent Volumes
+- Persistent Volume Claims
+
+---
+
+## ⚙️ Infrastructure as Code
+
+- Terraform
+- Terraform Modules
+- Infrastructure Provisioning
+- AWS Networking
+- State Management
+
+---
+
+## 📈 Monitoring & Observability
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=prometheus"/>
+
+<img src="https://skillicons.dev/icons?i=grafana"/>
+
+</p>
+
+- Prometheus
+- Grafana
+- AWS CloudWatch
+
+---
+
+## 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+</p>
+
+---
+
+## 🖥 Operating Systems
+
+- Ubuntu
+- CentOS
+- Linux Administration
+- Shell Scripting
+
+---
