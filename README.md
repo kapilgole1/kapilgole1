@@ -377,3 +377,87 @@ I enjoy solving infrastructure challenges, automating repetitive tasks, deployin
 </p>
 
 ---
+
+# 🏆 Certifications
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</p>
+
+> *(Replace these with official certification badges once you earn them.)*
+
+---
+
+# 🌱 Currently Learning
+
+- ☸️ Advanced Kubernetes
+- 🚀 Argo CD & GitOps
+- ☁️ Advanced AWS Services
+- 🏗️ Terraform Modules & Best Practices
+- 🐍 Python for DevOps Automation
+- 🔐 DevSecOps & Kubernetes Security
+- 📊 Production Monitoring & Observability
+
+---
+
+# 📚 Education
+
+### 🎓 Bachelor of Technology (Computer Science & Engineering)
+
+**J.C. Bose University of Science & Technology, YMCA**  
+2021 – 2025
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kapilgole1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kapil-gole">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kapilprajapat0011@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
+
+> *"Automate everything that can be automated, monitor everything that matters, and continuously improve through learning and iteration."*
+
+---
+
+# 📈 Profile Summary
+
+- ☁️ Cloud Engineer
+- 🚀 DevOps Enthusiast
+- ☸️ Kubernetes Practitioner
+- 🏗️ Infrastructure as Code Advocate
+- 🔄 CI/CD Automation
+- 📊 Monitoring & Observability
+- 🔐 DevSecOps Learner
+- 🌍 Open Source Enthusiast
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6D28D9&height=120&section=footer"/>
+
+</p>
