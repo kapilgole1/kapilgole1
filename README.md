@@ -13,30 +13,26 @@ Cloud Engineer • DevOps Engineer • AWS • Kubernetes • Terraform
 </h3>
 
 <p align="center">
-Building scalable cloud infrastructure through Automation, DevOps, GitOps and Infrastructure as Code.
+Building scalable cloud infrastructure through automation, DevOps, GitOps, and Infrastructure as Code.
 </p>
 
 <p align="center">
-
-<a href="https://github.com/kapilgole1">
-<img src="https://img.shields.io/github/followers/kapilgole1?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/kapilgole1">
-<img src="https://img.shields.io/github/stars/kapilgole1?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=kapilgole1&style=for-the-badge&color=blue"/>
-
+  <a href="https://github.com/kapilgole1">
+    <img src="https://img.shields.io/github/followers/kapilgole1?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/kapilgole1">
+    <img src="https://img.shields.io/github/stars/kapilgole1?style=for-the-badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kapilgole1&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Cloud Engineer** passionate about building secure, scalable and highly available cloud infrastructure.
+I'm a **Cloud Engineer** passionate about building secure, scalable, and highly available cloud infrastructure.
 
-My primary interests include
+My primary interests include:
 
 - ☁️ Cloud Engineering
 - 🚀 DevOps
@@ -49,10 +45,10 @@ I enjoy solving infrastructure challenges, automating repetitive tasks, deployin
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 | Position | Company | Duration |
-|-----------|----------|----------|
+|---|---|---|
 | ☁️ Cloud Engineer | Multiverse Solutions Pvt. Ltd. | Jan 2026 – Present |
 | 🐧 Linux Developer Intern | Interface Microsystem Pvt. Ltd. | Feb 2025 – Jul 2025 |
 | 🤖 AI Intern | ICT Academy | Sep 2024 – Oct 2024 |
@@ -60,404 +56,154 @@ I enjoy solving infrastructure challenges, automating repetitive tasks, deployin
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## ☁️ Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square"/>
-
-</p>
-
----
-
-## 🚀 DevOps
+**Cloud**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-<img src="https://skillicons.dev/icons?i=terraform"/>
-
-<img src="https://skillicons.dev/icons?i=ansible"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
+  <img src="https://skillicons.dev/icons?i=aws"/>
+  <img src="https://skillicons.dev/icons?i=azure"/>
 </p>
 
----
-
-## ☸️ Kubernetes Ecosystem
-
-- Kubernetes
-- Helm
-- Amazon EKS
-- Docker
-- Docker Compose
-- Kubernetes Networking
-- ConfigMaps
-- Secrets
-- Ingress
-- Persistent Volumes
-- Persistent Volume Claims
-
----
-
-## ⚙️ Infrastructure as Code
-
-- Terraform
-- Terraform Modules
-- Infrastructure Provisioning
-- AWS Networking
-- State Management
-
----
-
-## 📈 Monitoring & Observability
+**DevOps & Tools**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=prometheus"/>
-
-<img src="https://skillicons.dev/icons?i=grafana"/>
-
+  <img src="https://skillicons.dev/icons?i=docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions"/>
+  <img src="https://skillicons.dev/icons?i=terraform"/>
+  <img src="https://skillicons.dev/icons?i=ansible"/>
+  <img src="https://skillicons.dev/icons?i=linux"/>
+  <img src="https://skillicons.dev/icons?i=bash"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
 </p>
 
-- Prometheus
-- Grafana
-- AWS CloudWatch
-
----
-
-## 💻 Programming
+**Monitoring & Observability**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
+  <img src="https://skillicons.dev/icons?i=prometheus"/>
+  <img src="https://skillicons.dev/icons?i=grafana"/>
 </p>
 
+**Programming**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=bash"/>
+  <img src="https://skillicons.dev/icons?i=golang"/>
+</p>
+
+**Kubernetes Ecosystem:** Helm • Amazon EKS • Docker Compose • Networking • ConfigMaps • Secrets • Ingress • PV/PVC
+
+**Infrastructure as Code:** Terraform • Terraform Modules • Infrastructure Provisioning • AWS Networking • State Management
+
+**Operating Systems:** Ubuntu • CentOS • Linux Administration • Shell Scripting
+
 ---
 
-## 🖥 Operating Systems
+## 🚀 Featured Projects
 
-- Ubuntu
-- CentOS
-- Linux Administration
-- Shell Scripting
-
----
-
-
-# 🚀 Featured Projects
-
----
-
-## ☁️ Production-Grade Amazon EKS Infrastructure
-
-### Tech Stack
-
+### ☁️ Production-Grade Amazon EKS Infrastructure
 `AWS` • `Terraform` • `Amazon EKS` • `Docker` • `Kubernetes` • `Helm` • `GitHub Actions` • `Prometheus` • `Grafana`
 
-### Highlights
+- Provisioned complete AWS infrastructure using Terraform
+- Built a production-ready Kubernetes cluster on Amazon EKS
+- Configured IAM Roles, VPC, Subnets, Route Tables, and Security Groups
+- Deployed applications using Helm Charts with Horizontal Pod Autoscaling
+- Implemented monitoring using Prometheus, Grafana, and AWS CloudWatch
 
-✅ Provisioned complete AWS infrastructure using Terraform
-
-✅ Built a production-ready Kubernetes cluster on Amazon EKS
-
-✅ Configured IAM Roles, VPC, Subnets, Route Tables and Security Groups
-
-✅ Automated infrastructure provisioning using Infrastructure as Code
-
-✅ Deployed applications using Helm Charts
-
-✅ Configured Horizontal Pod Autoscaling
-
-✅ Implemented Monitoring using Prometheus & Grafana
-
-✅ Integrated AWS CloudWatch for infrastructure monitoring
-
----
-
-## 🚀 Secure CI/CD Pipeline
-
-### Tech Stack
-
+### 🚀 Secure CI/CD Pipeline
 `GitHub Actions` • `Docker` • `GitHub Container Registry` • `Linux`
 
-### Features
+- Automated build, test, and Docker image deployment pipeline
+- Container registry push with environment variables and GitHub Secrets
+- Reusable, deployment-ready workflow architecture
 
-- Automated Build Pipeline
-
-- Automated Testing
-
-- Docker Image Build
-
-- Container Registry Push
-
-- Environment Variables
-
-- GitHub Secrets
-
-- Deployment Ready Workflow
-
-- Reusable Workflow Architecture
-
----
-
-## ☸️ Kubernetes Monitoring Stack
-
-### Tech Stack
-
+### ☸️ Kubernetes Monitoring Stack
 `Kubernetes` • `Prometheus` • `Grafana` • `Helm`
 
-### Highlights
+- Installed monitoring stack using Helm and configured Prometheus scraping
+- Created Grafana dashboards for nodes, pods, and deployments
+- Full infrastructure metrics visualization
 
-✔ Installed monitoring stack using Helm
+### 🐳 Three-Tier Application Deployment
+`Docker` • `Docker Compose` • `Apache` • `MySQL` • `Linux`
 
-✔ Created Grafana dashboards
+- Multi-container architecture with Docker networking and persistent volumes
+- Reverse proxy setup with environment-based configuration
+- Production-ready Docker Compose deployment
 
-✔ Configured Prometheus scraping
+### 🌐 Web Application Deployment
+`Docker` • `Nginx` • `MySQL` • `Linux`
 
-✔ Monitored Kubernetes Nodes
-
-✔ Monitored Pods
-
-✔ Monitored Deployments
-
-✔ Infrastructure Metrics Visualization
-
----
-
-## 🐳 Three-Tier Application Deployment
-
-### Stack
-
-`Docker`
-
-`Docker Compose`
-
-`Apache`
-
-`MySQL`
-
-`Linux`
-
-### Features
-
-- Multi-container architecture
-
-- Docker Networking
-
-- Persistent Volumes
-
-- Environment Variables
-
-- Reverse Proxy
-
-- Database Initialization
-
-- Production-ready Docker Compose
+- Dockerized application with Nginx reverse proxy and load balancing
+- Secure, production-grade container networking
 
 ---
 
-## 🌐 Web Application Deployment
+## 📜 Currently Learning
 
-### Stack
-
-`Docker`
-
-`Nginx`
-
-`MySQL`
-
-`Linux`
-
-### Features
-
-- Dockerized Application
-
-- Nginx Reverse Proxy
-
-- Load Balancing
-
-- Container Networking
-
-- Secure Deployment
-
-- Production Configuration
-
----
-
-# 📂 GitHub Repositories
-
-### 🔹 DevOps Projects
-
-- 🚀 Kubernetes Deployments
-- ☁️ AWS Infrastructure
-- ⚙️ Terraform
-- 🐳 Docker Projects
-- 🔁 GitHub Actions
-- 📊 Monitoring Stack
-- 🐧 Linux Automation
-
----
-
-# 📜 Certifications & Learning
-
-### 🎯 Currently Learning
-
-- Advanced Amazon EKS
-- Kubernetes Security
+- Advanced Amazon EKS & Kubernetes Security
 - GitOps with ArgoCD
 - Advanced Terraform Modules
-- Python Automation
-- Cloud Architecture
-- DevSecOps Best Practices
+- Python for DevOps Automation
+- Cloud Architecture & DevSecOps Best Practices
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- ✅ Master Kubernetes
-- ✅ Master Terraform
-- ✅ Become AWS Solutions Architect
-- ✅ Learn ArgoCD
-- ✅ Build Enterprise DevOps Projects
-- ✅ Contribute to Open Source
-- ✅ Achieve AWS Certification
+- [ ] Master Kubernetes & Terraform
+- [ ] Become an AWS Solutions Architect
+- [ ] Build enterprise-grade DevOps projects
+- [ ] Contribute to open source
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kapilgole1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgole1&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapilgole1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgole1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilgole1&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilgole1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilgole1&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilgole1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 Certifications
+## 🎓 Education
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-</p>
-
-> *(Replace these with official certification badges once you earn them.)*
+**Bachelor of Technology, Computer Science & Engineering**
+J.C. Bose University of Science & Technology, YMCA — 2021 to 2025
 
 ---
 
-# 🌱 Currently Learning
-
-- ☸️ Advanced Kubernetes
-- 🚀 Argo CD & GitOps
-- ☁️ Advanced AWS Services
-- 🏗️ Terraform Modules & Best Practices
-- 🐍 Python for DevOps Automation
-- 🔐 DevSecOps & Kubernetes Security
-- 📊 Production Monitoring & Observability
-
----
-
-# 📚 Education
-
-### 🎓 Bachelor of Technology (Computer Science & Engineering)
-
-**J.C. Bose University of Science & Technology, YMCA**  
-2021 – 2025
-
----
-
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/kapilgole1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kapil-gole">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kapilprajapat0011@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/kapilgole1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kapil-gole">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kapilprajapat0011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-# 💡 DevOps Philosophy
-
-> *"Automate everything that can be automated, monitor everything that matters, and continuously improve through learning and iteration."*
-
----
-
-# 📈 Profile Summary
-
-- ☁️ Cloud Engineer
-- 🚀 DevOps Enthusiast
-- ☸️ Kubernetes Practitioner
-- 🏗️ Infrastructure as Code Advocate
-- 🔄 CI/CD Automation
-- 📊 Monitoring & Observability
-- 🔐 DevSecOps Learner
-- 🌍 Open Source Enthusiast
-
----
+<p align="center">
+  <i>"Automate everything that can be automated, monitor everything that matters, and continuously improve through learning and iteration."</i>
+</p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6D28D9&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6D28D9&height=120&section=footer"/>
 </p>
