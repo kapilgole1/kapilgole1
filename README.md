@@ -172,3 +172,208 @@ I enjoy solving infrastructure challenges, automating repetitive tasks, deployin
 - Shell Scripting
 
 ---
+
+
+# 🚀 Featured Projects
+
+---
+
+## ☁️ Production-Grade Amazon EKS Infrastructure
+
+### Tech Stack
+
+`AWS` • `Terraform` • `Amazon EKS` • `Docker` • `Kubernetes` • `Helm` • `GitHub Actions` • `Prometheus` • `Grafana`
+
+### Highlights
+
+✅ Provisioned complete AWS infrastructure using Terraform
+
+✅ Built a production-ready Kubernetes cluster on Amazon EKS
+
+✅ Configured IAM Roles, VPC, Subnets, Route Tables and Security Groups
+
+✅ Automated infrastructure provisioning using Infrastructure as Code
+
+✅ Deployed applications using Helm Charts
+
+✅ Configured Horizontal Pod Autoscaling
+
+✅ Implemented Monitoring using Prometheus & Grafana
+
+✅ Integrated AWS CloudWatch for infrastructure monitoring
+
+---
+
+## 🚀 Secure CI/CD Pipeline
+
+### Tech Stack
+
+`GitHub Actions` • `Docker` • `GitHub Container Registry` • `Linux`
+
+### Features
+
+- Automated Build Pipeline
+
+- Automated Testing
+
+- Docker Image Build
+
+- Container Registry Push
+
+- Environment Variables
+
+- GitHub Secrets
+
+- Deployment Ready Workflow
+
+- Reusable Workflow Architecture
+
+---
+
+## ☸️ Kubernetes Monitoring Stack
+
+### Tech Stack
+
+`Kubernetes` • `Prometheus` • `Grafana` • `Helm`
+
+### Highlights
+
+✔ Installed monitoring stack using Helm
+
+✔ Created Grafana dashboards
+
+✔ Configured Prometheus scraping
+
+✔ Monitored Kubernetes Nodes
+
+✔ Monitored Pods
+
+✔ Monitored Deployments
+
+✔ Infrastructure Metrics Visualization
+
+---
+
+## 🐳 Three-Tier Application Deployment
+
+### Stack
+
+`Docker`
+
+`Docker Compose`
+
+`Apache`
+
+`MySQL`
+
+`Linux`
+
+### Features
+
+- Multi-container architecture
+
+- Docker Networking
+
+- Persistent Volumes
+
+- Environment Variables
+
+- Reverse Proxy
+
+- Database Initialization
+
+- Production-ready Docker Compose
+
+---
+
+## 🌐 Web Application Deployment
+
+### Stack
+
+`Docker`
+
+`Nginx`
+
+`MySQL`
+
+`Linux`
+
+### Features
+
+- Dockerized Application
+
+- Nginx Reverse Proxy
+
+- Load Balancing
+
+- Container Networking
+
+- Secure Deployment
+
+- Production Configuration
+
+---
+
+# 📂 GitHub Repositories
+
+### 🔹 DevOps Projects
+
+- 🚀 Kubernetes Deployments
+- ☁️ AWS Infrastructure
+- ⚙️ Terraform
+- 🐳 Docker Projects
+- 🔁 GitHub Actions
+- 📊 Monitoring Stack
+- 🐧 Linux Automation
+
+---
+
+# 📜 Certifications & Learning
+
+### 🎯 Currently Learning
+
+- Advanced Amazon EKS
+- Kubernetes Security
+- GitOps with ArgoCD
+- Advanced Terraform Modules
+- Python Automation
+- Cloud Architecture
+- DevSecOps Best Practices
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Kubernetes
+- ✅ Master Terraform
+- ✅ Become AWS Solutions Architect
+- ✅ Learn ArgoCD
+- ✅ Build Enterprise DevOps Projects
+- ✅ Contribute to Open Source
+- ✅ Achieve AWS Certification
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kapilgole1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilgole1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilgole1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilgole1&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
